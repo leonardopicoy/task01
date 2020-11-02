@@ -28,7 +28,7 @@ variable "tenant_id" {
 
 Se utilizan los siguiente parametros:
 
-# Para crear un Cluster de Kubernetes de un solo nodo, con Ingress Controller.
+### Para crear un Cluster de Kubernetes de un solo nodo, con Ingress Controller.
 sh task01.sh CREATE
 
 # Para destruir el Cluster de Kubernetes
