@@ -31,8 +31,8 @@ Se utilizan los siguiente parametros:
 ### Para crear un Cluster de Kubernetes de un solo nodo, con Ingress Controller.
 sh task01.sh CREATE
 
-# Para destruir el Cluster de Kubernetes
+### Para destruir el Cluster de Kubernetes
 sh task01.sh DESTROY
 
-# Para ver las declaraciones
+### Para ver las declaraciones
 sh task01.sh OUTPUT
